@@ -50,7 +50,7 @@
 
  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnasBaqai&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>|<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AnasBaqai&layout=compact&langs_count=8&theme=algolia"/>
 |---|---|
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnasBaqai&layout=compact&theme=github_dark"/>|
+
 
 
 # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
