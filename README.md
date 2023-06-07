@@ -47,7 +47,8 @@
 
  
 ## Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=AnasBaqai&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnasBaqai&theme=blueberry_duo"/>
+
+ <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnasBaqai&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>|<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AnasBaqai&layout=compact&langs_count=8&theme=algolia"/>
 |---|---|
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnasBaqai&layout=compact&theme=github_dark"/>|
 
