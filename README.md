@@ -1,61 +1,47 @@
-![GITHUB COVER BEST](https://user-images.githubusercontent.com/104893311/236267366-3c79f5d9-2587-49aa-96e7-e45e9a546f22.png)
+![Portfolio banner](https://user-images.githubusercontent.com/104893311/236267366-3c79f5d9-2587-49aa-96e7-e45e9a546f22.png)
 
-<br>
+### Hi, I’m Muhammad Anas
 
-<img align="right" alt="Coder GIF" height="220px" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" />
+**Software Engineer • GenAI Enthusiast • Full‑Stack Developer**
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=AnasBaqai&label=Profile%20views&color=0e75b6&style=flat" alt="AnasBaqai" />
-</p>
+I turn complex ideas into practical, well‑crafted software. I’m focused on building next‑generation, AI‑powered user experiences and intelligent systems. Lately I’ve been exploring GenAI patterns (LLMs, RAG, tool use, evaluation) and mobility‑focused AI integrations.
 
-## 👋 Hello, I'm Muhammad Anas
+[Portfolio](https://portfolio-peach-iota-20.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/anas-baqai-bo21/) • [Email](mailto:muhammadanas94036@gmail.com)
 
-### 🚀 Software Engineer | 🤖 GenAI Enthusiast | 🌐 Full-Stack Developer
-
-💡 I enjoy turning complex ideas into practical solutions through elegant code. I’m passionate about building next-generation software with a focus on intelligent systems, natural language interfaces, and AI-driven user experiences. I'm currently diving deeper into GenAI and mobility-focused AI integrations.
+![Profile views](https://komarev.com/ghpvc/?username=AnasBaqai&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
-## 🔧 Tools & Technologies
+### Toolbox
 
-<p align="left">
-  <a href="#"><img alt="Python" src="https://img.icons8.com/color/48/python.png"/></a>
-  <a href="#"><img alt="JavaScript" src="https://img.icons8.com/color/48/javascript--v1.png"/></a>
-  <a href="#"><img alt="TypeScript" src="https://img.icons8.com/color/48/typescript.png"/></a>
-  <a href="#"><img alt="React" src="https://img.icons8.com/color/48/react-native.png"/></a>
-  <a href="#"><img alt="Node.js" src="https://img.icons8.com/color/48/nodejs.png"/></a>
-  <a href="#"><img alt="Next.js" src="https://img.icons8.com/ios-filled/48/nextjs.png"/></a>
-  <a href="#"><img alt="Tailwind CSS" src="https://img.icons8.com/color/48/tailwind_css.png"/></a>
-  <a href="#"><img alt="MongoDB" src="https://img.icons8.com/color/48/mongodb.png"/></a>
-  <a href="#"><img alt="PostgreSQL" src="https://img.icons8.com/color/48/postgreesql.png"/></a>
-  <a href="#"><img alt="Docker" src="https://img.icons8.com/color/48/docker.png"/></a>
-  <a href="#"><img alt="GitHub" src="https://img.icons8.com/ios-glyphs/48/github.png"/></a>
-  <a href="#"><img alt="VS Code" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/></a>
-</p>
+- **Languages**: Python, JavaScript, TypeScript
+- **Frontend**: React, Next.js, Tailwind CSS
+- **Backend**: Node.js
+- **Databases**: MongoDB, PostgreSQL
+- **DevOps**: Docker
+- **Tools**: GitHub, VS Code
 
 ---
 
-## 📈 GitHub Stats
+### What I’m exploring
 
-| <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnasBaqai&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> | <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AnasBaqai&layout=compact&langs_count=8&theme=algolia"/> |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
----
-
-## 🌐 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/anas-baqai-bo21/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:muhammadanas94036@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://portfolio-peach-iota-20.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+- **GenAI**: LLM apps, RAG, prompt engineering, tool/function calling, evaluation
+- **Product**: Shipping end‑to‑end features, from idea and design to deployment
+- **Performance**: Clean architecture, DX, and observability
 
 ---
 
-## ⚡ Recent GitHub Activity
+### GitHub Stats
 
-[![Anas's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AnasBaqai&bg_color=0d1117&color=26D9C7&line=53F3CE&point=1DB954&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+| ![Anas’s GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=AnasBaqai&show_icons=true&theme=algolia&include_all_commits=true&count_private=true) | ![Top languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AnasBaqai&layout=compact&langs_count=8&theme=algolia) |
+| --- | --- |
 
 ---
 
-> 🧠 "Solving problems through code isn’t just my profession — it’s my passion."
+### Recent Activity
+
+[![Anas’s GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AnasBaqai&bg_color=0d1117&color=26D9C7&line=53F3CE&point=1DB954&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+> “Solving problems through code isn’t just my profession — it’s my passion.”
