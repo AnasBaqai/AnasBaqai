@@ -116,8 +116,10 @@
 
 <div align="center">
 
-🎯 **MSc Computer Science** @ University of Passau, Germany (2024-Present)  
-🌍 **From Karachi to Munich to Passau** - Building global AI solutions  
+🎯 **MSc Computer Science** @ University of Passau, Germany (2024-Present)
+
+<!-- 🌍 **From Karachi to Munich to Passau** - Building global AI solutions   -->
+
 📚 **Focus Areas**: Multi-agent Systems, Vector Databases, Enterprise AI Integration
 
 </div>
@@ -139,39 +141,6 @@
 [![Anas's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AnasBaqai&bg_color=0d1117&color=26D9C7&line=53F3CE&point=1DB954&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
-
-<!-- ---
-
-## 📊 **Weekly Development Breakdown**
-
-<div align="center">
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<!-- [![Coding Time](https://wakatime.com/badge/user/your-wakatime-id.svg)](https://wakatime.com/@AnasBaqai) -->
-
-</div>
-
----
-
-<!-- ## 🔥 **Contribution Snake** -->
-<!--
-<div align="center">
-<!--
-![Snake animation](https://github.com/AnasBaqai/AnasBaqai/blob/output/github-contribution-grid-snake.svg) -->
-
-</div> -->
-
----
-
-<!-- ## 🏆 **GitHub Trophies**
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=AnasBaqai&theme=onedark&no-frame=false&no-bg=false&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div> --> -->
 
 ---
 
